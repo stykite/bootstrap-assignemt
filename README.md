@@ -1,4 +1,4 @@
-# NovaCrypt - Loopstudios landing page
+# Landing page design
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
